@@ -6,19 +6,33 @@ Action Recognition is a computer vision technique that involves identifying and 
  Head = 0
  
  Neck =1 
+ 
  Left_shoulder =2
+ 
  Left_elbow =3
+ 
  Left_wrist = 4
+ 
  Right_shoulder =5
+ 
  Right_elbow =6
+ 
  Right_wrist = 7
+ 
  Stomach =14
+ 
  Left_hip=8
+ 
  Left_Knee=9
+ 
  Left_ankle=10
+ 
  Right_hip=11
+ 
  Right_Knee=12
+ 
  Right_ankle=13
+
  
  
 
