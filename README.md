@@ -3,8 +3,9 @@ Action Recognition is a computer vision technique that involves identifying and 
 
  To perfrom Action regconition the body part are labelled into points
  
- Head = 0 ,
- Neck =1
+ Head = 0
+ 
+ Neck =1 
  Left_shoulder =2
  Left_elbow =3
  Left_wrist = 4
